@@ -1,10 +1,5 @@
-//
-//  AppDelegate.swift
-//  Github
-//
-//  Created by Admin on 12/06/1940 Saka.
-//  Copyright © 1940 Eswar Info Tech. All rights reserved.
-//
+
+
 
 import UIKit
 
